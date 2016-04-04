@@ -104,3 +104,4 @@ A tiny framework for TCP,UDP,NIO development on android project.
 		}
 	}
 
+更多的格式和用法参考test包里面的相关部分。
